@@ -1,6 +1,6 @@
 # Pizza Sales Dashboard
 
-This Pizza Sales Dashboard provides an insightful and interactive overview of sales performance for a pizza business. The dashboard is designed for data-driven decision-making, showcasing key metrics, trends, and visualizations that highlight sales patterns and customer preferences.
+This Pizza Sales Dashboard provides an insightful and interactive overview of sales performance for a pizza business. The dashboard is designed in POWER BI for data-driven decision-making, showcasing key metrics, trends, and visualizations that highlight sales patterns and customer preferences.
 
 ## Page 1: Overview
 The first page delivers an overview of key metrics, trends, and overall sales performance.
@@ -34,6 +34,9 @@ The first page delivers an overview of key metrics, trends, and overall sales pe
 - Pie charts representing the percentage of sales by pizza category and size.
 - Horizontal bar chart for total pizzas sold by category.
 
+### Dashboard page 1
+
+![Pizza Sales Dashboard page1](Pizza Sales Images/pizza_sales_dashboard_page1.jpg)
 
 ## Page 2: Best and Worst Sellers
 The second page focuses on identifying the top and bottom-performing pizzas in terms of revenue, quantity, and orders.
@@ -57,6 +60,10 @@ The second page focuses on identifying the top and bottom-performing pizzas in t
 ### 3) Additional Insights:
 
 - Sales performance by category reveals the strengths and weaknesses of individual pizzas, guiding inventory and marketing strategies.
+
+### Dashboard Page 2
+
+![Pizza Sales Dashboard page2](Pizza Sales Images/pizza_sales_dashboard_page2.jpg)
 
 ### Purpose:
 This dashboard is a decision-support tool designed to:
