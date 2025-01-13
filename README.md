@@ -63,7 +63,7 @@ The second page focuses on identifying the top and bottom-performing pizzas in t
 
 ### Dashboard Page 2
 
-![Pizza Sales Dashboard page2](Pizza Sales Images/pizza_sales_dashboard_page2.jpg)
+![Pizza Sales Dashboard page2](/Pizza Sales Images/pizza_sales_dashboard_page2.jpg)
 
 ### Purpose:
 This dashboard is a decision-support tool designed to:
