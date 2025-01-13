@@ -36,7 +36,7 @@ The first page delivers an overview of key metrics, trends, and overall sales pe
 
 ### Dashboard page 1
 
-![Pizza Sales Dashboard page1](Pizza Sales Images/pizza_sales_dashboard_page1.jpg)
+![Pizza Sales Dashboard page1](https://raw.githubusercontent.com/username/repo/main/Pizza%20Sales%20Images/pizza_sales_dashboard_page1.jpg)
 
 ## Page 2: Best and Worst Sellers
 The second page focuses on identifying the top and bottom-performing pizzas in terms of revenue, quantity, and orders.
