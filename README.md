@@ -18,8 +18,10 @@ The first page delivers an overview of key metrics, trends, and overall sales pe
 **Busiest Days and Times:**
 - Orders peak on weekends, especially Friday and Saturday evenings.
 - Monthly highs observed in July and January.
+  
 **Daily Trends:**
 - Visualized via bar charts showing weekday order volumes.
+
 **Monthly Market Trends:**
 - Line graph illustrating fluctuations in order count across the year.
 
